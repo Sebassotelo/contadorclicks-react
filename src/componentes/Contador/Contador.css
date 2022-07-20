@@ -1,0 +1,17 @@
+.contador{
+    text-align: center;
+    min-height: 150px;
+    min-width: 200px;
+    font-size: 100px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 20px;
+    justify-self: center;
+    align-self: center;
+    color: white;
+    border: 8px solid white;
+    border-radius: 20px;
+    margin-bottom: 25px;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+}
